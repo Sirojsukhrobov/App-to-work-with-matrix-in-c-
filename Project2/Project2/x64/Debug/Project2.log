@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\User\source\repos\Project2\Project2\MyForm.h(294,31): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\Project2\Project2\MyForm.cpp(7,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project2.vcxproj -> C:\Users\User\source\repos\Project2\x64\Debug\Project2.exe
